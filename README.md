@@ -1,8 +1,8 @@
 # Praktikum 7 - Pemrograman Web
 ```
-Veno Setyoaji Wiratama
-311910363
-TI.19.A.2
+MAULANA HASANUDIN
+312010106
+TI.20.D.1
 Universitas Pelita Bangsa
 ```
 # Buka XAMPP dan jalankan Apache
